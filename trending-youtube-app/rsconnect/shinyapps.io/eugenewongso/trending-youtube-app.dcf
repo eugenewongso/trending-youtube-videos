@@ -1,0 +1,13 @@
+name: trending-youtube-app
+title:
+username:
+account: eugenewongso
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9248023
+bundleId: 7327873
+url: https://eugenewongso.shinyapps.io/trending-youtube-app/
+when: 1686384526.78122
+lastSyncTime: 1686384526.78124
+asMultiple: FALSE
+asStatic: FALSE
